@@ -14,7 +14,7 @@ export const messageController = async (req: Request, res: Response): Promise<vo
 
   try {
     const processedMessage = await messageService(message);
-    console.log('Beispiel für eine KI-Antwort ist: ', processedMessage);
+    console.log('OPEN-AI-Antwort: ', processedMessage);
 
     res.status(200).json(processedMessage);
   } catch (error) {

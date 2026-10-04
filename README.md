@@ -50,6 +50,16 @@ Structured AI Output
 
 ```
 
+## Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
+OPENAI_API_KEY=your_openai_api_key
+```
+You can obtain an API key from the OpenAI Platform.
+
+
 ## Getting Started
 
 ### Installation
