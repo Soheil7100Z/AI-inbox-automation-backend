@@ -59,6 +59,14 @@ OPENAI_API_KEY=your_openai_api_key
 ```
 You can obtain an API key from the OpenAI Platform.
 
+### API Credits
+
+This project uses the OpenAI API for AI message analysis.
+
+> **Note:** OpenAI API usage requires prepaid credits. Add API credits to enable the AI functionality. Automatic recharge can be disabled in the billing settings.
+
+[OpenAI API Billing](https://platform.openai.com/settings/organization/billing/)
+
 
 ## Getting Started
 
